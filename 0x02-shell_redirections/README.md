@@ -1,1 +1,1 @@
-My first script
+This script prints Hello World
