@@ -1,2 +1,2 @@
-#!/bi/bash
+#!/bin/bash\n
 echo "hello $USER"
